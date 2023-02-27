@@ -1,9 +1,10 @@
 import CustomHooks from "./Components/CustomHooks";
+import HigherOrderComponents from "./Components/HigherOrderComponents";
 
 function App() {
   return (
     <div className="App">
-      <CustomHooks/>
+      <HigherOrderComponents/>
     </div>
   );
 }
